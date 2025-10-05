@@ -1,152 +1,152 @@
 Year,Month,Date,Location (city),Waste_Type,Waste_Source,Quantity_kg,Carbon_Footprint_kgCO2
-2020,January,13,Pune,glass,household,120,24
-2020,January,8,Mumbai,hazardous waste,household,15,37.5
-2020,February,4,Pune,plastic,commercial,300,1830
-2020,February,14,Mumbai,e-waste,commercial,150,135
-2020,March,1,Bengaluru,glass,institution,450,90
-2020,March,31,Bengaluru,organic,commercial,500,50
-2020,April,18,Chennai,hazardous waste,institution,80,200
-2020,April,15,Chennai,plastic,municipal,200,1220
-2020,May,21,Hyderabad,glass,industrial,1500,300
-2020,May,31,Hyderabad,e-waste,municipal,100,90
-2020,June,16,Delhi,hazardous waste,industrial,"5,000",12500
-2020,June,22,Delhi,organic,municipal,400,40
-2020,July,6,Ahmedabad,glass,household,200,40
-2020,July,12,Ahmedabad,glass,commercial,"1,000",200
-2020,August,9,Ahmedabad,hazardous waste,industrial,"3,000",7500
-2020,August,30,Ahmedabad,hazardous waste,commercial,"1,000",2500
-2020,September,23,Ahmedabad,hazardous waste,municipal,"1,500",3750
-2020,September,30,Kolkata,glass,municipal,"2,000",400
-2020,October,20,Kolkata,hazardous waste,institution,120,300
-2020,October,22,Kolkata,hazardous waste,industrial,"5,500",13750
-2020,November,7,Kolkata,hazardous waste,commercial,"1,200",3000
-2020,November,16,Kolkata,hazardous waste,municipal,"2,000",5000
-2020,December,13,Pune,glass,commercial,"1,200",240
-2020,December,21,Pune,hazardous waste,industrial,"5,000",12500
-2020,December,28,Pune,hazardous waste,commercial,"1,200",3000
-2021,January,1,Pune,hazardous waste,municipal,"2,000",5000
-2021,January,13,Mumbai,glass,municipal,"2,500",500
-2021,January,8,Mumbai,hazardous waste,industrial,"6,000",15000
-2021,February,4,Mumbai,hazardous waste,commercial,"1,500",3750
-2021,February,14,Mumbai,hazardous waste,municipal,"2,500",6250
-2021,March,1,Pune,glass,household,110,22
-2021,March,31,Mumbai,hazardous waste,household,25,62.5
-2021,April,18,Pune,plastic,commercial,280,1708
-2021,April,15,Mumbai,e-waste,commercial,140,126
-2021,May,21,Bengaluru,glass,institution,430,86
-2021,May,31,Bengaluru,organic,commercial,490,49
-2021,June,16,Chennai,hazardous waste,institution,75,187.5
-2021,June,22,Chennai,plastic,municipal,210,1281
-2021,July,6,Pune,organic,household,320,32
-2021,July,12,Mumbai,glass,commercial,150,30
-2021,August,9,Bengaluru,hazardous waste,household,45,112.5
-2021,August,30,Chennai,e-waste,institution,160,144
-2021,September,23,Pune,plastic,institution,310,1891
-2021,September,30,Mumbai,organic,household,200,20
-2021,October,20,Bengaluru,glass,municipal,420,84
-2021,October,22,Chennai,hazardous waste,commercial,85,212.5
-2021,November,7,Pune,e-waste,household,120,108
-2021,November,16,Mumbai,plastic,institution,230,1403
-2021,November,13,Bengaluru,organic,municipal,510,51
-2021,December,21,Chennai,glass,household,180,36
-2021,December,28,Pune,hazardous waste,commercial,40,100
-2022,January,13,Mumbai,glass,institution,155,31
-2022,January,8,Bengaluru,plastic,household,270,1647
-2022,February,4,Chennai,organic,commercial,480,48
-2022,February,14,Pune,glass,municipal,130,26
-2022,March,1,Pune,plastic,household,290,1769
-2022,March,31,Mumbai,organic,institution,210,21
-2022,April,18,Bengaluru,glass,commercial,400,80
-2022,April,15,Chennai,e-waste,commercial,160,144
-2022,May,21,Delhi,hazardous waste,household,50,125
-2022,May,31,Hyderabad,organic,municipal,470,47
-2022,June,16,Kolkata,plastic,institution,230,1403
-2022,June,22,Pune,glass,household,120,24
-2022,July,6,Mumbai,hazardous waste,commercial,35,87.5
-2022,July,12,Bengaluru,e-waste,household,170,153
-2022,August,9,Chennai,plastic,municipal,200,1220
-2022,August,30,Pune,organic,institution,310,31
-2022,September,23,Mumbai,glass,household,150,30
-2022,September,30,Bengaluru,hazardous waste,commercial,45,112.5
-2022,October,20,Chennai,e-waste,institution,180,162
-2022,October,22,Pune,plastic,municipal,300,1830
-2022,November,7,Mumbai,organic,household,220,22
-2022,November,16,Bengaluru,glass,institution,410,82
-2022,November,13,Chennai,hazardous waste,commercial,80,200
-2022,December,21,Delhi,e-waste,household,140,126
-2022,December,28,Hyderabad,plastic,commercial,250,1525
-2023,January,13,Kolkata,organic,municipal,490,49
-2023,January,8,Pune,glass,household,125,25
-2023,February,4,Mumbai,hazardous waste,institution,30,75
-2023,February,14,Pune,plastic,household,300,1830
-2023,March,1,Mumbai,organic,commercial,230,23
-2023,March,31,Bengaluru,glass,institution,420,84
-2023,April,18,Chennai,e-waste,commercial,170,153
-2023,April,15,Delhi,hazardous waste,household,55,137.5
-2023,May,21,Hyderabad,organic,municipal,480,48
-2023,May,31,Kolkata,plastic,institution,240,1464
-2023,June,16,Pune,glass,household,130,26
-2023,June,22,Mumbai,hazardous waste,commercial,40,100
-2023,July,6,Bengaluru,e-waste,household,180,162
-2023,July,12,Chennai,plastic,municipal,210,1281
-2023,August,9,Pune,organic,institution,320,32
-2023,August,30,Mumbai,glass,household,155,31
-2023,September,23,Bengaluru,hazardous waste,commercial,50,125
-2023,September,30,Chennai,e-waste,institution,190,171
-2023,October,20,Pune,plastic,municipal,310,1891
-2023,October,22,Mumbai,organic,household,240,24
-2023,November,7,Bengaluru,glass,institution,430,86
-2023,November,16,Chennai,hazardous waste,commercial,85,212.5
-2023,November,13,Delhi,e-waste,household,150,135
-2023,December,21,Hyderabad,plastic,commercial,260,1586
-2023,December,28,Kolkata,organic,municipal,500,50
-2024,January,13,Pune,glass,household,140,28
-2024,January,8,Mumbai,hazardous waste,institution,35,87.5
-2024,February,4,Pune,plastic,household,310,1891
-2024,February,14,Mumbai,organic,commercial,250,25
-2024,March,1,Bengaluru,glass,institution,440,88
-2024,March,31,Chennai,e-waste,commercial,180,162
-2024,April,18,Delhi,hazardous waste,household,60,150
-2024,April,15,Hyderabad,organic,municipal,490,49
-2024,May,21,Kolkata,plastic,institution,250,1525
-2024,May,31,Pune,glass,household,135,27
-2024,June,16,Mumbai,hazardous waste,commercial,45,112.5
-2024,June,22,Bengaluru,e-waste,household,190,171
-2024,July,6,Chennai,plastic,municipal,220,1342
-2024,July,12,Pune,organic,institution,330,33
-2024,August,9,Mumbai,glass,household,160,32
-2024,August,30,Bengaluru,hazardous waste,commercial,55,137.5
-2024,September,23,Chennai,e-waste,institution,200,180
-2024,September,30,Pune,plastic,municipal,320,1952
-2024,October,20,Mumbai,organic,household,250,25
-2024,October,22,Bengaluru,glass,institution,450,90
-2024,November,7,Chennai,hazardous waste,commercial,90,225
-2024,November,16,Delhi,e-waste,household,160,144
-2024,November,13,Hyderabad,plastic,commercial,270,1647
-2024,December,21,Kolkata,organic,municipal,510,51
-2024,December,28,Pune,glass,household,145,29
-2025,January,13,Mumbai,hazardous waste,institution,40,100
-2025,January,8,Pune,plastic,household,330,2013
-2025,February,4,Mumbai,organic,commercial,260,26
-2025,February,14,Bengaluru,glass,institution,460,92
-2025,March,1,Chennai,e-waste,commercial,190,171
-2025,March,31,Delhi,hazardous waste,household,65,162.5
-2025,April,18,Hyderabad,organic,municipal,500,50
-2025,April,15,Kolkata,plastic,institution,260,1586
-2025,May,21,Pune,glass,household,140,28
-2025,May,31,Mumbai,hazardous waste,commercial,50,125
-2025,June,16,Bengaluru,e-waste,household,200,180
-2025,June,22,Chennai,plastic,municipal,230,1403
-2025,July,6,Pune,organic,institution,340,34
-2025,July,12,Mumbai,glass,household,165,33
-2025,August,9,Bengaluru,hazardous waste,commercial,60,150
-2025,August,30,Chennai,e-waste,institution,210,189
-2025,September,23,Pune,plastic,municipal,330,2013
-2025,September,30,Mumbai,organic,household,260,26
-2025,October,20,Bengaluru,glass,institution,470,94
-2025,October,22,Chennai,hazardous waste,commercial,95,237.5
-2025,November,7,Delhi,e-waste,household,170,153
-2025,November,16,Hyderabad,plastic,commercial,280,1708
-2025,November,13,Kolkata,organic,municipal,520,52
-2025,December,21,Pune,glass,household,150,30
-2025,December,28,Mumbai,hazardous waste,institution,45,112.5
+2020,01,13,Pune,glass,household,120,24
+2020,01,8,Mumbai,hazardous waste,household,15,37.5
+2020,02,4,Pune,plastic,commercial,300,1830
+2020,02,14,Mumbai,e-waste,commercial,150,135
+2020,03,1,Bengaluru,glass,institution,450,90
+2020,03,31,Bengaluru,organic,commercial,500,50
+2020,04,18,Chennai,hazardous waste,institution,80,200
+2020,04,15,Chennai,plastic,municipal,200,1220
+2020,05,21,Hyderabad,glass,industrial,1500,300
+2020,05,31,Hyderabad,e-waste,municipal,100,90
+2020,06,16,Delhi,hazardous waste,industrial,"5,000",12500
+2020,06,22,Delhi,organic,municipal,400,40
+2020,07,6,Ahmedabad,glass,household,200,40
+2020,07,12,Ahmedabad,glass,commercial,"1,000",200
+2020,08,9,Ahmedabad,hazardous waste,industrial,"3,000",7500
+2020,08,30,Ahmedabad,hazardous waste,commercial,"1,000",2500
+2020,09,23,Ahmedabad,hazardous waste,municipal,"1,500",3750
+2020,09,30,Kolkata,glass,municipal,"2,000",400
+2020,10,20,Kolkata,hazardous waste,institution,120,300
+2020,10,22,Kolkata,hazardous waste,industrial,"5,500",13750
+2020,11,7,Kolkata,hazardous waste,commercial,"1,200",3000
+2020,11,16,Kolkata,hazardous waste,municipal,"2,000",5000
+2020,12,13,Pune,glass,commercial,"1,200",240
+2020,12,21,Pune,hazardous waste,industrial,"5,000",12500
+2020,12,28,Pune,hazardous waste,commercial,"1,200",3000
+2021,01,1,Pune,hazardous waste,municipal,"2,000",5000
+2021,01,13,Mumbai,glass,municipal,"2,500",500
+2021,01,8,Mumbai,hazardous waste,industrial,"6,000",15000
+2021,02,4,Mumbai,hazardous waste,commercial,"1,500",3750
+2021,02,14,Mumbai,hazardous waste,municipal,"2,500",6250
+2021,03,1,Pune,glass,household,110,22
+2021,03,31,Mumbai,hazardous waste,household,25,62.5
+2021,04,18,Pune,plastic,commercial,280,1708
+2021,04,15,Mumbai,e-waste,commercial,140,126
+2021,05,21,Bengaluru,glass,institution,430,86
+2021,05,31,Bengaluru,organic,commercial,490,49
+2021,06,16,Chennai,hazardous waste,institution,75,187.5
+2021,06,22,Chennai,plastic,municipal,210,1281
+2021,07,6,Pune,organic,household,320,32
+2021,07,12,Mumbai,glass,commercial,150,30
+2021,08,9,Bengaluru,hazardous waste,household,45,112.5
+2021,08,30,Chennai,e-waste,institution,160,144
+2021,09,23,Pune,plastic,institution,310,1891
+2021,09,30,Mumbai,organic,household,200,20
+2021,10,20,Bengaluru,glass,municipal,420,84
+2021,10,22,Chennai,hazardous waste,commercial,85,212.5
+2021,11,7,Pune,e-waste,household,120,108
+2021,11,16,Mumbai,plastic,institution,230,1403
+2021,11,13,Bengaluru,organic,municipal,510,51
+2021,12,21,Chennai,glass,household,180,36
+2021,12,28,Pune,hazardous waste,commercial,40,100
+2022,01,13,Mumbai,glass,institution,155,31
+2022,01,8,Bengaluru,plastic,household,270,1647
+2022,02,4,Chennai,organic,commercial,480,48
+2022,02,14,Pune,glass,municipal,130,26
+2022,03,1,Pune,plastic,household,290,1769
+2022,03,31,Mumbai,organic,institution,210,21
+2022,04,18,Bengaluru,glass,commercial,400,80
+2022,04,15,Chennai,e-waste,commercial,160,144
+2022,05,21,Delhi,hazardous waste,household,50,125
+2022,05,31,Hyderabad,organic,municipal,470,47
+2022,06,16,Kolkata,plastic,institution,230,1403
+2022,06,22,Pune,glass,household,120,24
+2022,07,6,Mumbai,hazardous waste,commercial,35,87.5
+2022,07,12,Bengaluru,e-waste,household,170,153
+2022,08,9,Chennai,plastic,municipal,200,1220
+2022,08,30,Pune,organic,institution,310,31
+2022,09,23,Mumbai,glass,household,150,30
+2022,09,30,Bengaluru,hazardous waste,commercial,45,112.5
+2022,10,20,Chennai,e-waste,institution,180,162
+2022,10,22,Pune,plastic,municipal,300,1830
+2022,11,7,Mumbai,organic,household,220,22
+2022,11,16,Bengaluru,glass,institution,410,82
+2022,11,13,Chennai,hazardous waste,commercial,80,200
+2022,12,21,Delhi,e-waste,household,140,126
+2022,12,28,Hyderabad,plastic,commercial,250,1525
+2023,01,13,Kolkata,organic,municipal,490,49
+2023,01,8,Pune,glass,household,125,25
+2023,02,4,Mumbai,hazardous waste,institution,30,75
+2023,02,14,Pune,plastic,household,300,1830
+2023,03,1,Mumbai,organic,commercial,230,23
+2023,03,31,Bengaluru,glass,institution,420,84
+2023,04,18,Chennai,e-waste,commercial,170,153
+2023,04,15,Delhi,hazardous waste,household,55,137.5
+2023,05,21,Hyderabad,organic,municipal,480,48
+2023,05,31,Kolkata,plastic,institution,240,1464
+2023,06,16,Pune,glass,household,130,26
+2023,06,22,Mumbai,hazardous waste,commercial,40,100
+2023,07,6,Bengaluru,e-waste,household,180,162
+2023,07,12,Chennai,plastic,municipal,210,1281
+2023,08,9,Pune,organic,institution,320,32
+2023,08,30,Mumbai,glass,household,155,31
+2023,09,23,Bengaluru,hazardous waste,commercial,50,125
+2023,09,30,Chennai,e-waste,institution,190,171
+2023,10,20,Pune,plastic,municipal,310,1891
+2023,10,22,Mumbai,organic,household,240,24
+2023,11,7,Bengaluru,glass,institution,430,86
+2023,11,16,Chennai,hazardous waste,commercial,85,212.5
+2023,11,13,Delhi,e-waste,household,150,135
+2023,12,21,Hyderabad,plastic,commercial,260,1586
+2023,12,28,Kolkata,organic,municipal,500,50
+2024,01,13,Pune,glass,household,140,28
+2024,01,8,Mumbai,hazardous waste,institution,35,87.5
+2024,02,4,Pune,plastic,household,310,1891
+2024,02,14,Mumbai,organic,commercial,250,25
+2024,03,1,Bengaluru,glass,institution,440,88
+2024,03,31,Chennai,e-waste,commercial,180,162
+2024,04,18,Delhi,hazardous waste,household,60,150
+2024,04,15,Hyderabad,organic,municipal,490,49
+2024,05,21,Kolkata,plastic,institution,250,1525
+2024,05,31,Pune,glass,household,135,27
+2024,06,16,Mumbai,hazardous waste,commercial,45,112.5
+2024,06,22,Bengaluru,e-waste,household,190,171
+2024,07,6,Chennai,plastic,municipal,220,1342
+2024,07,12,Pune,organic,institution,330,33
+2024,08,9,Mumbai,glass,household,160,32
+2024,08,30,Bengaluru,hazardous waste,commercial,55,137.5
+2024,09,23,Chennai,e-waste,institution,200,180
+2024,09,30,Pune,plastic,municipal,320,1952
+2024,10,20,Mumbai,organic,household,250,25
+2024,10,22,Bengaluru,glass,institution,450,90
+2024,11,7,Chennai,hazardous waste,commercial,90,225
+2024,11,16,Delhi,e-waste,household,160,144
+2024,11,13,Hyderabad,plastic,commercial,270,1647
+2024,12,21,Kolkata,organic,municipal,510,51
+2024,12,28,Pune,glass,household,145,29
+2025,01,13,Mumbai,hazardous waste,institution,40,100
+2025,01,8,Pune,plastic,household,330,2013
+2025,02,4,Mumbai,organic,commercial,260,26
+2025,02,14,Bengaluru,glass,institution,460,92
+2025,03,1,Chennai,e-waste,commercial,190,171
+2025,03,31,Delhi,hazardous waste,household,65,162.5
+2025,04,18,Hyderabad,organic,municipal,500,50
+2025,04,15,Kolkata,plastic,institution,260,1586
+2025,05,21,Pune,glass,household,140,28
+2025,05,31,Mumbai,hazardous waste,commercial,50,125
+2025,06,16,Bengaluru,e-waste,household,200,180
+2025,06,22,Chennai,plastic,municipal,230,1403
+2025,07,6,Pune,organic,institution,340,34
+2025,07,12,Mumbai,glass,household,165,33
+2025,08,9,Bengaluru,hazardous waste,commercial,60,150
+2025,08,30,Chennai,e-waste,institution,210,189
+2025,09,23,Pune,plastic,municipal,330,2013
+2025,09,30,Mumbai,organic,household,260,26
+2025,10,20,Bengaluru,glass,institution,470,94
+2025,10,22,Chennai,hazardous waste,commercial,95,237.5
+2025,11,7,Delhi,e-waste,household,170,153
+2025,11,16,Hyderabad,plastic,commercial,280,1708
+2025,11,13,Kolkata,organic,municipal,520,52
+2025,12,21,Pune,glass,household,150,30
+2025,12,28,Mumbai,hazardous waste,institution,45,112.5
