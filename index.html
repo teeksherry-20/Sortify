@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SORTIFY - Waste Management System</title>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <link rel="stylesheet" href="style.css">
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>SORTIFY</h1>
+            <p>Intelligent Waste Management & Analytics Platform</p>
+        </div>
+
+        <div id="login-section" class="login-section">
+            <h2 style="margin-bottom: 20px; color: #2a5298;">Login to Continue</h2>
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" id="username" placeholder="Enter username">
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" id="password" placeholder="Enter password">
+            </div>
+            <button class="btn" onclick="login()">Login</button>
+            
+            <div class="credentials-box">
+                <h4>Demo Credentials:</h4>
+                <p><strong>Admin:</strong> admin / admin123</p>
+                <p><strong>Waste Collector:</strong> waste collector / collector123</p>
+                <p><strong>Municipal Officer:</strong> municipal officer / officer123</p>
+                <p><strong>User:</strong> household/institution / user123</p>
+            </div>
+        </div>
+
+        <div id="main-content" class="main-content hidden">
+            <div class="user-info">
+                <span id="user-role" style="font-weight: 600;"></span>
+                <button class="btn" style="width: auto; padding: 8px 20px;" onclick="logout()">Logout</button>
+            </div>
+
+            <div id="menu-section"></div>
+            <div id="content-section"></div>
+        </div>
+    </div>
+
+    <py-script src="./pyscript_logic.py"></py-script>
+    <script src="script.js"></script>
+</body>
+</html>
